@@ -103,6 +103,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ecba35f4cd17f64a9a9d5b2894190fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  EnemyBulletPrefab: {fileID: 3160158418413831653, guid: 680d09b5b6f21d849b3e33902f5da71a,
+    type: 3}
+  timeShot: 1
 --- !u!61 &8970086555769378048
 BoxCollider2D:
   m_ObjectHideFlags: 0

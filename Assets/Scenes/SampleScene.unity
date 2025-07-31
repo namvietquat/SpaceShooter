@@ -1352,16 +1352,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2304443209796519728, guid: 5d2751fd88b902a42bfa2a487834b31d,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 135
-      objectReference: {fileID: 0}
-    - target: {fileID: 2304443209796519728, guid: 5d2751fd88b902a42bfa2a487834b31d,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 783
-      objectReference: {fileID: 0}
     - target: {fileID: 3638477690081604313, guid: 5d2751fd88b902a42bfa2a487834b31d,
         type: 3}
       propertyPath: m_Name
@@ -1415,16 +1405,6 @@ PrefabInstance:
     - target: {fileID: 5246683618708070313, guid: 5d2751fd88b902a42bfa2a487834b31d,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5271667887224143582, guid: 5d2751fd88b902a42bfa2a487834b31d,
-        type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5271667887224143582, guid: 5d2751fd88b902a42bfa2a487834b31d,
-        type: 3}
-      propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1740,6 +1720,74 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d2751fd88b902a42bfa2a487834b31d, type: 3}
+--- !u!1001 &5414007873324041547
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 478189281931156636, guid: 680d09b5b6f21d849b3e33902f5da71a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 478189281931156636, guid: 680d09b5b6f21d849b3e33902f5da71a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.201
+      objectReference: {fileID: 0}
+    - target: {fileID: 478189281931156636, guid: 680d09b5b6f21d849b3e33902f5da71a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 478189281931156636, guid: 680d09b5b6f21d849b3e33902f5da71a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 478189281931156636, guid: 680d09b5b6f21d849b3e33902f5da71a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 478189281931156636, guid: 680d09b5b6f21d849b3e33902f5da71a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 478189281931156636, guid: 680d09b5b6f21d849b3e33902f5da71a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 478189281931156636, guid: 680d09b5b6f21d849b3e33902f5da71a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 478189281931156636, guid: 680d09b5b6f21d849b3e33902f5da71a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 478189281931156636, guid: 680d09b5b6f21d849b3e33902f5da71a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7825140762294816644, guid: 680d09b5b6f21d849b3e33902f5da71a,
+        type: 3}
+      propertyPath: m_Name
+      value: Machine Gun Red _0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 680d09b5b6f21d849b3e33902f5da71a, type: 3}
 --- !u!20 &7818160506482560850 stripped
 Camera:
   m_CorrespondingSourceObject: {fileID: 3005303892994588343, guid: ae29b94f41a58d242a08cb271ed5222d,
@@ -1827,3 +1875,4 @@ SceneRoots:
   - {fileID: 2062241313}
   - {fileID: 1631300453}
   - {fileID: 1488847725}
+  - {fileID: 5414007873324041547}
