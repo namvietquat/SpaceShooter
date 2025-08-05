@@ -26,7 +26,7 @@ public class EnemyController : MonoBehaviour
    
     void OnTriggerEnter2D(Collider2D collision)
     {
-        Die();
+      Die();
     }
 
     private void Die()

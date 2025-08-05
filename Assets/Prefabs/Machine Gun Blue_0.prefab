@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: -2112386155461565238}
   - component: {fileID: -6562189999863021169}
   - component: {fileID: 3139521385503264329}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Machine Gun Blue_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
